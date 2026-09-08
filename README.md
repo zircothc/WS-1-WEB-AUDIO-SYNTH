@@ -17,3 +17,4 @@ Download HTML file and open with
 Windows: Chrome/Edge/Brave (tested)
 Android: Chrome (tested)
   
+<img width="616" height="1021" alt="WS-1" src="https://github.com/user-attachments/assets/9bc8549d-acfd-446b-a9e0-616a54472516" />
